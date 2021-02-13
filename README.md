@@ -14,6 +14,7 @@ As the result, I made this virtualizer make your portfolio visualization easy to
 4. Category(Yes, this is ambiguous because everyone has their own evaluation on their holding. But by doing this, you have to think about the type of whay your are holding now and give it ONLY ONE TYPE)
 
 The given example.csv:
+
 | Name  | Shares | Average Cost  | Category |
 | T | 100 | 26.8 | Blue Chip |
 | AAPL | 60 | 114.17 | Income |

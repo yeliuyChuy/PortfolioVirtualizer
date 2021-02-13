@@ -16,6 +16,7 @@ As the result, I made this virtualizer make your portfolio visualization easy to
 The given example.csv:
 
 | Name  | Shares | Average Cost  | Category |
+| :------------ |:---------------:| -----:|
 | T | 100 | 26.8 | Blue Chip |
 | AAPL | 60 | 114.17 | Income |
 | UPWK | 30 | 32.42 | Growth |

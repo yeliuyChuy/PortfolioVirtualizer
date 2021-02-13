@@ -11,8 +11,8 @@ As the result, I made this virtualizer make your portfolio visualization easy to
 1. Ticker symbol
 2. Share number
 3. Average cost
-4. Category
+4. Category(Yes, this is ambiguous because everyone has their own evaluation on their holding. But by doing this, you have to think about the type of whay your are holding now and give it ONLY ONE TYPE)
 
-And it scrapes Yahoo Finance and compute some properties using your given portfolio, and plot it in a 3D scatter.
+The Virtualizer scrapes Yahoo Finance and compute some properties using your given portfolio, and plot it in a 3D scatter. Feel free to add any feature you want!
 
 ![](https://github.com/yeliuyChuy/PortfolioVirtualizer/blob/main/demo_pics/Test.gif)

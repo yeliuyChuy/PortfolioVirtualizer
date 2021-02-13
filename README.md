@@ -13,6 +13,13 @@ As the result, I made this virtualizer make your portfolio visualization easy to
 3. Average cost
 4. Category(Yes, this is ambiguous because everyone has their own evaluation on their holding. But by doing this, you have to think about the type of whay your are holding now and give it ONLY ONE TYPE)
 
-The Virtualizer scrapes Yahoo Finance and compute some properties using your given portfolio, and plot it in a 3D scatter. Feel free to add any feature you want!
+The given example.csv:
+| Name  | Shares | Average Cost  | Category |
+| T | 100 | 26.8 | Blue Chip |
+| AAPL | 60 | 114.17 | Income |
+| UPWK | 30 | 32.42 | Growth |
+| STPK | 20 | 21.95 | Speculative |
+
+The Virtualizer then scrapes Yahoo Finance and compute some properties based on your portfolio, and plot it in a 3D scatter. Feel free to add any feature you want!
 
 ![](https://github.com/yeliuyChuy/PortfolioVirtualizer/blob/main/demo_pics/Test.gif)
